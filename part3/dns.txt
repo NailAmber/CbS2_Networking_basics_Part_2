@@ -1,0 +1,7 @@
+Какие тип и класс запроса видны в DNS-запросе?
+
+Type: A (Host address)
+Class: IN (Internet)
+Source port: 58470
+Destination port: 53
+
